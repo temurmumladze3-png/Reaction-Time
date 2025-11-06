@@ -1,0 +1,55 @@
+body{
+    background: #1F2937;
+
+
+
+}
+.myboxx{
+    width: 600px;
+    height: 700px;
+    color: aliceblue;
+    border: 8px solid black;
+    margin: auto;
+    font-family: cursive;
+    position: relative;
+
+}
+
+h1{
+    text-align: center;
+    color: rgb(253, 249, 249);
+     
+}
+p{
+    text-align: center;
+    color: rgb(241, 241, 241);
+}
+
+#screen {
+      width: 20vw;
+      height: 50vh;
+      background-color: rgb(252, 5, 5);
+      display: center;
+      font-size: 2rem;
+      color: rgb(0, 0, 0);
+      cursor: pointer;
+      position:absolute;
+    width:100%;
+    bottom:0;
+    cursor: grabbing;
+    display: flex;             /* enable flexbox */
+    justify-content: center;   /* horizontal centering */
+    align-items: center;       /* vertical centering */
+    text-align: center;   
+
+    }
+    h2{
+        font-size: xx-large;
+        width: 100%;
+        text-align: center;
+        vertical-align: center;
+        line-height: 40vh;     /* The -10 as your div height */
+    }
+
+
+
